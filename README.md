@@ -13,7 +13,7 @@ El grupo de investigación Gravitación y Matemática Aplicada se especializa en
 Líneas de Investigación: Sistemas dinámicos | Teoría de representación de álgebras de Lie | Métodos estadísticos clásicos, Bayesianos y Ciencia de Datos. | 
 Clima espacial y rayos cósmicos. 
 
-## Información del grupo
+## Integrantes del grupo
 
 | Integrantes | Redes |
 | ----------- | ----- |

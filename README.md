@@ -2,6 +2,10 @@
 
 Página del Grupo de Investigación en Gravitación y Matemáticas Aplicadas de la Facultad de Ciencias Básicas de la Universidad Tecnológica de Bolivar (UTB), Cartagena de Indias Colombia
 
+## Información del grupo
+
+## Lineas de Investigaci
+
 ## Seminarios de grupo
 
 - Agosto 25, 2022. **"Multigrid for the Nonlinear Power Flow Equations"** Por Enrique Pereira Batista (Universidad Tecnológica de Bolivar, Cartagena Colombia). 

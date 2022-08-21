@@ -31,9 +31,9 @@ Clima espacial y rayos cósmicos.
 El principal objetivo es comprender el comportamiento cualitativo de sistemas determinísticos. Las técnicas, preguntas son variadas y van desde el uso de métodos probabilísticos, a técnicas puramente topológicas. Es una disciplina estrechamente relacionada con la física. Por otra parte, sistemas dinámicos ha encontrado aplicaciones en las más diversas áreas de la matemática, desde la teoría de números a las ecuaciones en derivadas parciales. Las aplicaciones son variadas,  desde las finanzas a la sociología. Partes de la teoría de sistemas dinámicos como fractales y caos ha recibido gran atención mediática en el  último tiempo. En la Facultad existe un grupo con diversos intereses, con fuertes redes internacionales, con seminarios, congresos e invitados que lo hacen un lugar perfecto para especializarse en este tema.
 
 * Logros: Se han publicado un par de artículos:  
- - Genericity of Continuous Maps with Positive Metric Mean Dimension. Acevedo, J.M. Results in Mathematics, 2022, 77(1), 2
- - Mean Dimension and Metric Mean Dimension for Non-autonomous Dynamical Systems. Rodrigues, F.B., Acevedo, J.M. Journal of Dynamical and Control Systems, 2021.
- - Analytic Approximations to Liénard Nonlinear Oscillators with Modified Energy Balance Method 	Sierra-Porta, D.  2020. Journal of Vibration Engineering and Technologies 8(5), pp. 713-720.
+  - Genericity of Continuous Maps with Positive Metric Mean Dimension. Acevedo, J.M. Results in Mathematics, 2022, 77(1), 2
+  - Mean Dimension and Metric Mean Dimension for Non-autonomous Dynamical Systems. Rodrigues, F.B., Acevedo, J.M. Journal of Dynamical and Control Systems, 2021.
+  - Analytic Approximations to Liénard Nonlinear Oscillators with Modified Energy Balance Method 	Sierra-Porta, D.  2020. Journal of Vibration Engineering and Technologies 8(5), pp. 713-720.
 
 * Responsables de la Linea: MUENTES ACEVEDO, JEOVANNY DE JESUS.
 

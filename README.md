@@ -3,11 +3,15 @@
 Página del Grupo de Investigación en Gravitación y Matemáticas Aplicadas de la Facultad de Ciencias Básicas de la Universidad Tecnológica de Bolivar (UTB), Cartagena de Indias Colombia
 
 ## Información del grupo
-- MUENTES ACEVEDO, JEOVANNY DE JESUS [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000144922)
-- DOMÍNGUEZ MONTERROZA, ANDY RAFAEL [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001181327)
-- PAYARES GUEVARA, CARLOS RAFAEL [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000859125)
-- VILLALBA ACEVEDO , JORGE LUIS [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001638794)
-- SIERRA PORTA, DAVID [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000125474)
+
+| --- | --- |
+| Integrantes | Redes |
+| MUENTES ACEVEDO, JEOVANNY DE JESUS | [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000144922) [scopus](https://www.scopus.com/authid/detail.uri?authorId=57222990626) [orcid](https://orcid.org/0000-0001-7419-482X) [scholar](https://scholar.google.com/citations?hl=en&user=3qJUzoEAAAAJ) |
+| DOMÍNGUEZ MONTERROZA, ANDY RAFAEL- | [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001181327) [scopus](https://www.scopus.com/authid/detail.uri?authorId=57200983451) [orcid](https://orcid.org/0000-0002-5274-7443) [scholar](https://scholar.google.com/citations?hl=en&user=RdFqwb8AAAAJ) |
+| PAYARES GUEVARA, CARLOS RAFAEL | [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000859125) [scopus]() [orcid](https://orcid.org/0000-0001-5244-6504) [scholar](https://scholar.google.com/citations?hl=en&user=pTicCVYAAAAJ) |
+| VILLALBA ACEVEDO , JORGE LUIS | [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001638794) [scopus]() [orcid](https://orcid.org/0000-0002-2888-9660) |
+| SIERRA PORTA, DAVID | [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000125474) [scopus](https://www.scopus.com/authid/detail.uri?authorId=57191333650) [orcid](https://orcid.org/0000-0003-3461-1347) [scholar](https://scholar.google.com/citations?hl=en&user=-OInFfYAAAAJ) |
+
 
 ## Lineas de Investigación
 

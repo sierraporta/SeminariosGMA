@@ -8,6 +8,7 @@ El grupo de investigación Gravitación y Matemática Aplicada se especializa en
 
 | Enlaces... | |
 | --- | --- |
+| Código Colciencias: COL0101357 | Categoría del Grupo: R (Convocatoria 2018) |
 | [GIGMA en UTB](https://www.utb.edu.co/investigacion/apoyo-a-la-investigacion/grupos-de-investigacion/grupo-de-investigacion-gravitacion-y-matematica-aplicada/) | [GIGMA en GRUPLAC](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010193) |
 
 Líneas de Investigación: Sistemas dinámicos | Teoría de representación de álgebras de Lie | Métodos estadísticos clásicos, Bayesianos y Ciencia de Datos. | 

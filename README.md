@@ -30,12 +30,12 @@ Clima espacial y rayos cósmicos.
 1. **Sistemas Dinámicos**
 El principal objetivo es comprender el comportamiento cualitativo de sistemas determinísticos. Las técnicas, preguntas son variadas y van desde el uso de métodos probabilísticos, a técnicas puramente topológicas. Es una disciplina estrechamente relacionada con la física. Por otra parte, sistemas dinámicos ha encontrado aplicaciones en las más diversas áreas de la matemática, desde la teoría de números a las ecuaciones en derivadas parciales. Las aplicaciones son variadas,  desde las finanzas a la sociología. Partes de la teoría de sistemas dinámicos como fractales y caos ha recibido gran atención mediática en el  último tiempo. En la Facultad existe un grupo con diversos intereses, con fuertes redes internacionales, con seminarios, congresos e invitados que lo hacen un lugar perfecto para especializarse en este tema.
 
-Logros: Se han publicado un par de artículos: 
-- Genericity of Continuous Maps with Positive Metric Mean Dimension. Acevedo, J.M. Results in Mathematics, 2022, 77(1), 2
-- Mean Dimension and Metric Mean Dimension for Non-autonomous Dynamical Systems. Rodrigues, F.B., Acevedo, J.M. Journal of Dynamical and Control Systems, 2021.
-- Analytic Approximations to Liénard Nonlinear Oscillators with Modified Energy Balance Method 	Sierra-Porta, D.  2020. Journal of Vibration Engineering and Technologies 8(5), pp. 713-720.
+- Logros: Se han publicado un par de artículos: 
+ - Genericity of Continuous Maps with Positive Metric Mean Dimension. Acevedo, J.M. Results in Mathematics, 2022, 77(1), 2
+ - Mean Dimension and Metric Mean Dimension for Non-autonomous Dynamical Systems. Rodrigues, F.B., Acevedo, J.M. Journal of Dynamical and Control Systems, 2021.
+ - Analytic Approximations to Liénard Nonlinear Oscillators with Modified Energy Balance Method 	Sierra-Porta, D.  2020. Journal of Vibration Engineering and Technologies 8(5), pp. 713-720.
 
-Responsables de la Linea: MUENTES ACEVEDO, JEOVANNY DE JESUS.
+- Responsables de la Linea: MUENTES ACEVEDO, JEOVANNY DE JESUS.
 
 2. **Álgebras de Lie**
 El problema central en la teoría de álgebras de Lie modular es la clasificación de las álgebras de Lie simple, este problema sobre un cuerpo de característica 2 es aún abierto. En este grupo, nos dedicamos a estudiar este problema para aquellas álgebras de Lie con 2-estructura, específicamente, estudiamos las 2-álgebras de Lie simple de rango toral 3 y su clasificación. 

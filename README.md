@@ -61,7 +61,7 @@ Algunos de nuestros seminarios...
 
  <img src="figures/seminarioGMA_25agostoEPB.png" align="right" width="300px"/>
 - Agosto 25, 2022. **"Multigrid for the Nonlinear Power Flow Equations"** Por Enrique Pereira Batista (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
-- 
+
 _The continuously changing structure of power systems and the inclusion of renewable energy sorces are leading to changes in the dynamics of modern power grid, which have brought renewed attention to the solution of the AC power flow equations. In particular, development of fast and robust solvers for the power flow problem continues to be actively investigated. Anovel multigrid technique for coarse-graining dynamic power grid models has been developed recently. This technique uses an algebraic multigrid (AMG) coarsening strategy applied to the weighted graph-Laplacian that arises from the power network ’stopology for the construction of coarse-grain approximations to the original model. Motivated by this technique, anewmultigrid method for the AC power flow equations is developed using this coarsening procedure. The AMG  coarsening procedure is used to build a multilevel hierarchy of admittance matrices, which automatically leads to a hierarchy of nonlinear power flow equations._
 <br clear="left"/>
 

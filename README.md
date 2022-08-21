@@ -3,11 +3,11 @@
 Página del Grupo de Investigación en Gravitación y Matemáticas Aplicadas de la Facultad de Ciencias Básicas de la Universidad Tecnológica de Bolivar (UTB), Cartagena de Indias Colombia
 
 ## Información del grupo
-- MUENTES ACEVEDO, JEOVANNY DE JESUS: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000144922
-- DOMÍNGUEZ MONTERROZA, ANDY RAFAEL: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001181327
-- PAYARES GUEVARA, CARLOS RAFAEL: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000859125
-- VILLALBA ACEVEDO , JORGE LUIS: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001638794
-- SIERRA PORTA, DAVID: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000125474
+- MUENTES ACEVEDO, JEOVANNY DE JESUS [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000144922)
+- DOMÍNGUEZ MONTERROZA, ANDY RAFAEL [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001181327)
+- PAYARES GUEVARA, CARLOS RAFAEL [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000859125)
+- VILLALBA ACEVEDO , JORGE LUIS [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001638794)
+- SIERRA PORTA, DAVID [cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000125474)
 
 ## Lineas de Investigación
 

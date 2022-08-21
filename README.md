@@ -29,35 +29,43 @@ Clima espacial y rayos cósmicos.
 
 1. **Sistemas Dinámicos**
 El principal objetivo es comprender el comportamiento cualitativo de sistemas determinísticos. Las técnicas, preguntas son variadas y van desde el uso de métodos probabilísticos, a técnicas puramente topológicas. Es una disciplina estrechamente relacionada con la física. Por otra parte, sistemas dinámicos ha encontrado aplicaciones en las más diversas áreas de la matemática, desde la teoría de números a las ecuaciones en derivadas parciales. Las aplicaciones son variadas,  desde las finanzas a la sociología. Partes de la teoría de sistemas dinámicos como fractales y caos ha recibido gran atención mediática en el  último tiempo. En la Facultad existe un grupo con diversos intereses, con fuertes redes internacionales, con seminarios, congresos e invitados que lo hacen un lugar perfecto para especializarse en este tema.
+
 Logros: Se han publicado un par de artículos: 
 - Genericity of Continuous Maps with Positive Metric Mean Dimension. Acevedo, J.M. Results in Mathematics, 2022, 77(1), 2
 - Mean Dimension and Metric Mean Dimension for Non-autonomous Dynamical Systems. Rodrigues, F.B., Acevedo, J.M. Journal of Dynamical and Control Systems, 2021.
 - Analytic Approximations to Liénard Nonlinear Oscillators with Modified Energy Balance Method 	Sierra-Porta, D.  2020. Journal of Vibration Engineering and Technologies 8(5), pp. 713-720.
+
 Responsables de la Linea: MUENTES ACEVEDO, JEOVANNY DE JESUS.
 
 2. **Álgebras de Lie**
 El problema central en la teoría de álgebras de Lie modular es la clasificación de las álgebras de Lie simple, este problema sobre un cuerpo de característica 2 es aún abierto. En este grupo, nos dedicamos a estudiar este problema para aquellas álgebras de Lie con 2-estructura, específicamente, estudiamos las 2-álgebras de Lie simple de rango toral 3 y su clasificación. 
+
 Logros: Se han publicado un par de artículos: 
 - Classical simple Lie 2-algebras of odd toral rank and a contragredient Lie 2-algebra of toral rank 4. PG Carlos R., AA Fabian A. Revista de la Unión Matemática Argentina 62 (1), 123-139, 2021
+
 Responsables de la Linea: PAYARES GUEVARA, CARLOS RAFAEL.
 
 3. **Métodos Estadísticos Clásicos, Bayesianos y Ciencia de Datos**
 Desarrolla y estudia las propiedades de modelos estadísticos clásicos. Los intereses específicos incluyen la teoría de distribuciones paramétricas de probabilidad, el desarrollo de medidas de influencia local y global, técnicas de muestreo, y de series de tiempo. Desarrolla y estudia las propiedades de modelos estadísticos Bayesianos. Los intereses específicos incluyen el desarrollo de modelos Bayesianos paramétricos y no paramétricos. Desarrolla y estudia las propiedades de métodos estadísticos que pueden ser utilizados a través de las ciencias. Desarrolla y estudia las propiedades de métodos estadísticos para identificar patrones y hacer predicciones sobre la base de grandes volúmenes de datos. Los intereses específicos incluyen las ciencias sociales y biomédicas, y el desarrollo de técnicas estadísticas y de aprendizaje automático.
+
 Logros: Se han publicado un par de artículos: 
 - Hydrogeochemical Evaluation of Water Quality Suitable for Human Consumption and Comparative Interpretation for Water Quality Index Studies 	Sierra-Porta, D. 2020. Environmental Processes 7(2), pp. 579-596.
 - Multidimensional Perspective of Poverty in Colombian Households. EJ Medina-Hernández, LF Sierra-Ibáñez, AR Domínguez-Monterrosa. Sociedad y Economía. 2021.
 - Sierra Porta, David (2022), “MultiFractal Detrented Fluctuations Analysis on Cosmic Rays Time Series”, Mendeley Data, V1, doi: 10.17632/kkk7ckvhcw.1
 - Sierra Porta, David (2022), “Air Quality Bogota.”, Mendeley Data, V1, doi: 10.17632/z6wtdbkc5b.1
+
 Responsables de la Linea: DOMÍNGUEZ MONTERROZA, ANDY RAFAEL; VILLALBA ACEVEDO , JORGE LUIS; SIERRA PORTA, DAVID.
 
 4. **Clima Espacial y Rayos Cósmicos**
 El Clima Espacial (CE) se refiere a las condiciones de la magnetosfera o campo magnético terrestre y la atmósfera ionizada que pueden ser afectadas por la actividad del Sol influyendo en la operación y confiabilidad de sistemas tecnológicos satelitales y en tierra, que a su vez causan riesgos en infraestructura y salud humana. El planeta Tierra recibe constantemente el impacto de los rayos cósmicos, partículas expulsadas por estrellas y galaxias lejanas. Estos mensajeros del espacio exterior aportan mucha información sobre la historia y la composición del Universo. La física de los rayos cósmicos es un campo de investigación activo, con muchos experimentos en curso que abordan cuestiones sobre su origen, naturaleza, aceleración y propagación. La amplísima gama de energías de los rayos cósmicos implica que se utilicen diferentes métodos de detección, desde complejos experimentos en el espacio hasta detectores terrestres de lluvia de aire gigante. El grupo de rayos cósmicos cubre parte de esta gama.
+
 Logros: Algunos artículos publicados: 
 - Muography in Colombia: Simulation Framework, Instrumentation, and Data Analysis. L. A. Núñez Peña-Rodríguez, A. Vesga-Ramírez, A. Vásquez-Ramírez, M. Suárez-Durán, R. de León-Barrios, D. Sierra-Porta, R. Calderón-Ardila, J. Pisco-Guavabe, H. Asorey, J. D. Sanabria-Gómez. Journal of Advanced Instrumentation in Science 2022 (JAIS-271, 2022), 1-9.
 - Simulated Annealing for volcano muography. Vesga-Ramírez, A., Sanabria-Gómez, J.D., Sierra-Porta, D., (...), Calderón-Ardila, R., Núñez, L.A. 2021. Journal of South American Earth Sciences 109,103248
 - Calibration and first measurements of MuTe: a hybrid Muon Telescope for geological structures 	Peña-Rodríguez, J., Vásquez-Ramírez, A., Sanabria-Gómez, J.D., (...), Sierra-Porta, D., Asorey, H. 2021. Proceedings of Science 358,381.
 - Design and construction of MuTe: a hybrid Muon Telescope to study Colombian volcanoes. Peña-Rodríguez, J., Pisco-Guabave, J., Sierra-Porta, D., (...), Asorey, H., Núñez, L.A. 	2020 	Journal of Instrumentation 15(9),P09006.
 - Muon tomography sites for colombian volcanoes. Vesga-Ramírez, A., Sierra-Porta, D., Peña-Rodríguez, J., (...), Asorey, H., Núñez, L.A. 	2020 	Annals of Geophysics. 63(6),VO661, pp. 1-26. 
+
 Responsables de la Linea: SIERRA PORTA, DAVID
 
 **A partir de las lineas de investigación se han creado y generado los siguientes productos:**

@@ -4,7 +4,7 @@ Página del Grupo de Investigación en Gravitación y Matemáticas Aplicadas de 
 
 ## Información del grupo
 
-## Lineas de Investigaci
+## Lineas de Investigación
 
 ## Seminarios de grupo
 

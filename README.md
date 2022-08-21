@@ -1,6 +1,6 @@
 # Grupo de Gravitación y Matemáticas Aplicadas
 
-<img src="figures/cienias_basicas-removebg-preview-768x177.png" align="right" width="400px"/>
+<img src="figures/cienias_basicas-removebg-preview-768x177.png" align="right" width="400px" height="200px"/>
 Página del Grupo de Investigación en Gravitación y Matemáticas Aplicadas de la Facultad de Ciencias Básicas de la Universidad Tecnológica de Bolivar (UTB), Cartagena de Indias Colombia
 <br clear="left"/>
 

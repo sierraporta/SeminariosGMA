@@ -75,6 +75,12 @@ El Clima Espacial (CE) se refiere a las condiciones de la magnetosfera o campo m
 
 Algunos de nuestros seminarios...
 
+ <img src="figures/seminarioGMA_01septiembreJMA.png" align="right" width="300px"/>
+- Agosto 25, 2022. **"Dimensión métrica media: propiedades, conjeturas y aplicaciones"** Por Jeovanny Muentes Acevedo (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
+
+_Uno de los problemas principales de los sistemas dinámicos es clasificar funciones continuas por conjugaciones topológicas. Debido a la complejidad de este problema, se han creado diferentes herramientas que permanecen invariantes por sistemas que son topológicamente conjugados. Algunas de estas herramientas son la entropía topológica y la dimensión topológica media. En este seminario hablaremos de la dimensión topológica media. Presentaremos su construcción, sus propiedades fundamentales, algunas conjeturas y aplicaciones en dinámica de fluidos._
+<br clear="left"/>
+
  <img src="figures/seminarioGMA_25agostoEPB.png" align="right" width="300px"/>
 - Agosto 25, 2022. **"Multigrid for the Nonlinear Power Flow Equations"** Por Enrique Pereira Batista (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
 
@@ -86,3 +92,8 @@ _The continuously changing structure of power systems and the inclusion of renew
 
 _Utilizamos multifractal detrented fluctuation analysis (MFDFA) para investigar la relación entre la rigidez magnética o "rigidez de corte" y la variabilidad y el comportamiento multifractal en la serie temporal del flujo de rayos cósmicos en la Tierra, que es detectado por los monitores de neutrones en la superficie terrestre. Dado que la rigidez de corte depende en gran medida de la latitud geográfica de los detectores, no todos los detectores producen recuentos de rayos cósmicos iguales. Nuestros resultados indican que existe un cierto sesgo en la naturaleza caótica de las series de rayos cósmicos asociado a la latitud de las estaciones de monitoreo._
 <br clear="left"/>
+
+
+
+
+

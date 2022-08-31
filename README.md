@@ -70,6 +70,8 @@ El Clima Espacial (CE) se refiere a las condiciones de la magnetosfera o campo m
 - Varias actividades en torno al proyecto ONDAS para la apropiación de conocimiento. Actividades con niños, niñas y adolescentes de la Región, en torno a Ciencias de Datos, Astronomía, Tecnología y Clima espacial.
 - Jornada de divulgación en torno a las Olimpiadas matemáticas Regionales y Organización y realización de las Olimpiadas Matemáticas Regionales.
 - Organización y realización del Workshop in Applied Statistic and Data Science, Cartagena 2022, con la participación de Internacionales y nacionales desarrollado en la UTB.
+- Olimpiadas Matemáticas de la Región Caribe, con la organización y implementación de la Universidad Tecnológica de Bolivar, Cartagena.
+- Realización de el III y IV Encuentro Matemático de Caribe en las instalaciones de la Universidad Tecnológica de Bolivar, Cartagena.
 
 ## Seminarios de grupo
 

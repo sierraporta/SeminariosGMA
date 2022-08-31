@@ -76,7 +76,7 @@ El Clima Espacial (CE) se refiere a las condiciones de la magnetosfera o campo m
 Algunos de nuestros seminarios...
 
  <img src="figures/seminarioGMA_01septiembreJMA.png" align="right" width="250px"/>
-- Agosto 25, 2022. **"Dimensión métrica media: propiedades, conjeturas y aplicaciones"** Por Jeovanny Muentes Acevedo (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
+- Septiembre 08, 2022. **"Dimensión métrica media: propiedades, conjeturas y aplicaciones"** Por Jeovanny Muentes Acevedo (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
 
 _Uno de los problemas principales de los sistemas dinámicos es clasificar funciones continuas por conjugaciones topológicas. Debido a la complejidad de este problema, se han creado diferentes herramientas que permanecen invariantes por sistemas que son topológicamente conjugados. Algunas de estas herramientas son la entropía topológica y la dimensión topológica media. En este seminario hablaremos de la dimensión topológica media. Presentaremos su construcción, sus propiedades fundamentales, algunas conjeturas y aplicaciones en dinámica de fluidos._
 <br clear="left"/>

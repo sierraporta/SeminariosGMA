@@ -77,7 +77,7 @@ El Clima Espacial (CE) se refiere a las condiciones de la magnetosfera o campo m
 
 Algunos de nuestros seminarios...
 
- <img src="figures/seminarioGMA_15septiembreADM.png" align="right" width="250px"/>
+ [<img src="figures/seminarioGMA_15septiembreADM.png" align="right" width="250px"/>](figures/seminarioGMA_15septiembreADM.png)
 - Septiembre 15, 2022. **"Aplicaciones de Ciencia de Datos en el Turismo"** Por Andy Dominguez (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
 
 _Ciudades turísticas como Cartagena de Indias en Colombia y Cancún en México son visitadas anualmente por millones de turistas al año, lo cual conlleva desafíos a las administraciones de las ciudades en términos de infraestructura, impacto medioambiental, transporte, oferta de servicios comerciales y gestión sostenible. Caracterizar la demanda del turismo es un fenomémo complejo. Son múltiples los factores que inciden en la demanda. Existen escasos estudios sobre la dinámica del número de visitantes-turistas a la luz de técnicas recientes de ciencia de datos. En esta investigación proponemos describir mediante técnicas de ciencia de datos, series de tiempo del número visitantes turísticos con el fin de extraer rasgos relacionados con la demanda del turismo. Los resultados muestran que las técnicas empleadas logran capturar plausiblemente los impactos de crisis (financieras, fenómenos meteorológicos, epidemias) sobre la dinámica del turismo. _
@@ -89,13 +89,13 @@ _Ciudades turísticas como Cartagena de Indias en Colombia y Cancún en México 
 _Uno de los problemas principales de los sistemas dinámicos es clasificar funciones continuas por conjugaciones topológicas. Debido a la complejidad de este problema, se han creado diferentes herramientas que permanecen invariantes por sistemas que son topológicamente conjugados. Algunas de estas herramientas son la entropía topológica y la dimensión topológica media. En este seminario hablaremos de la dimensión topológica media. Presentaremos su construcción, sus propiedades fundamentales, algunas conjeturas y aplicaciones en dinámica de fluidos._
 <br clear="left"/>
 
- <img src="figures/seminarioGMA_25agostoEPB.png" align="right" width="250px"/>
+ [<img src="figures/seminarioGMA_25agostoEPB.png" align="right" width="250px"/>](figures/seminarioGMA_25agostoEPB.png)
 - Agosto 25, 2022. **"Multigrid for the Nonlinear Power Flow Equations"** Por Enrique Pereira Batista (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
 
 _The continuously changing structure of power systems and the inclusion of renewable energy sorces are leading to changes in the dynamics of modern power grid, which have brought renewed attention to the solution of the AC power flow equations. In particular, development of fast and robust solvers for the power flow problem continues to be actively investigated. Anovel multigrid technique for coarse-graining dynamic power grid models has been developed recently. This technique uses an algebraic multigrid (AMG) coarsening strategy applied to the weighted graph-Laplacian that arises from the power network ’stopology for the construction of coarse-grain approximations to the original model. Motivated by this technique, anewmultigrid method for the AC power flow equations is developed using this coarsening procedure. The AMG  coarsening procedure is used to build a multilevel hierarchy of admittance matrices, which automatically leads to a hierarchy of nonlinear power flow equations._
 <br clear="left"/>
 
- <img src="figures/seminarioGMA_18agostoDSP.png" align="right" width="250px"/>
+ [<img src="figures/seminarioGMA_18agostoDSP.png" align="right" width="250px"/>](figures/seminarioGMA_18agostoDSP.png)
 - Agosto 18, 2022. **"Análisis topológico de series de tiempo aplicadas a rayos cósmicos galácticos"** Por David Sierra Porta (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
 
 _Utilizamos multifractal detrented fluctuation analysis (MFDFA) para investigar la relación entre la rigidez magnética o "rigidez de corte" y la variabilidad y el comportamiento multifractal en la serie temporal del flujo de rayos cósmicos en la Tierra, que es detectado por los monitores de neutrones en la superficie terrestre. Dado que la rigidez de corte depende en gran medida de la latitud geográfica de los detectores, no todos los detectores producen recuentos de rayos cósmicos iguales. Nuestros resultados indican que existe un cierto sesgo en la naturaleza caótica de las series de rayos cósmicos asociado a la latitud de las estaciones de monitoreo._

@@ -83,7 +83,7 @@ Algunos de nuestros seminarios...
 _Ciudades turísticas como Cartagena de Indias en Colombia y Cancún en México son visitadas anualmente por millones de turistas al año, lo cual conlleva desafíos a las administraciones de las ciudades en términos de infraestructura, impacto medioambiental, transporte, oferta de servicios comerciales y gestión sostenible. Caracterizar la demanda del turismo es un fenomémo complejo. Son múltiples los factores que inciden en la demanda. Existen escasos estudios sobre la dinámica del número de visitantes-turistas a la luz de técnicas recientes de ciencia de datos. En esta investigación proponemos describir mediante técnicas de ciencia de datos, series de tiempo del número visitantes turísticos con el fin de extraer rasgos relacionados con la demanda del turismo. Los resultados muestran que las técnicas empleadas logran capturar plausiblemente los impactos de crisis (financieras, fenómenos meteorológicos, epidemias) sobre la dinámica del turismo. _
 <br clear="left"/>
 
- <img src="figures/seminarioGMA_08septiembreJMA.png" align="right" width="250px"/>
+ [<img src="figures/seminarioGMA_08septiembreJMA.png" align="right" width="250px"/>](figures/seminarioGMA_08septiembreJMA.png)
 - Septiembre 08, 2022. **"Dimensión métrica media: propiedades, conjeturas y aplicaciones"** Por Jeovanny Muentes Acevedo (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
 
 _Uno de los problemas principales de los sistemas dinámicos es clasificar funciones continuas por conjugaciones topológicas. Debido a la complejidad de este problema, se han creado diferentes herramientas que permanecen invariantes por sistemas que son topológicamente conjugados. Algunas de estas herramientas son la entropía topológica y la dimensión topológica media. En este seminario hablaremos de la dimensión topológica media. Presentaremos su construcción, sus propiedades fundamentales, algunas conjeturas y aplicaciones en dinámica de fluidos._
@@ -100,8 +100,3 @@ _The continuously changing structure of power systems and the inclusion of renew
 
 _Utilizamos multifractal detrented fluctuation analysis (MFDFA) para investigar la relación entre la rigidez magnética o "rigidez de corte" y la variabilidad y el comportamiento multifractal en la serie temporal del flujo de rayos cósmicos en la Tierra, que es detectado por los monitores de neutrones en la superficie terrestre. Dado que la rigidez de corte depende en gran medida de la latitud geográfica de los detectores, no todos los detectores producen recuentos de rayos cósmicos iguales. Nuestros resultados indican que existe un cierto sesgo en la naturaleza caótica de las series de rayos cósmicos asociado a la latitud de las estaciones de monitoreo._
 <br clear="left"/>
-
-
-
-
-

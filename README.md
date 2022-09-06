@@ -77,6 +77,12 @@ El Clima Espacial (CE) se refiere a las condiciones de la magnetosfera o campo m
 
 Algunos de nuestros seminarios...
 
+ <img src="figures/seminarioGMA_15septiembreADM.png" align="right" width="250px"/>
+- Septiembre 15, 2022. **"Aplicaciones de Ciencia de Datos en el Turismo"** Por Andy Dominguez (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
+
+_Ciudades turísticas como Cartagena de Indias en Colombia y Cancún en México son visitadas anualmente por millones de turistas al año, lo cual conlleva desafíos a las administraciones de las ciudades en términos de infraestructura, impacto medioambiental, transporte, oferta de servicios comerciales y gestión sostenible. Caracterizar la demanda del turismo es un fenomémo complejo. Son múltiples los factores que inciden en la demanda. Existen escasos estudios sobre la dinámica del número de visitantes-turistas a la luz de técnicas recientes de ciencia de datos. En esta investigación proponemos describir mediante técnicas de ciencia de datos, series de tiempo del número visitantes turísticos con el fin de extraer rasgos relacionados con la demanda del turismo. Los resultados muestran que las técnicas empleadas logran capturar plausiblemente los impactos de crisis (financieras, fenómenos meteorológicos, epidemias) sobre la dinámica del turismo. _
+<br clear="left"/>
+
  <img src="figures/seminarioGMA_08septiembreJMA.png" align="right" width="250px"/>
 - Septiembre 08, 2022. **"Dimensión métrica media: propiedades, conjeturas y aplicaciones"** Por Jeovanny Muentes Acevedo (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
 

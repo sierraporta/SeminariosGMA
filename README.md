@@ -77,6 +77,12 @@ El Clima Espacial (CE) se refiere a las condiciones de la magnetosfera o campo m
 
 Algunos de nuestros seminarios...
 
+ [<img src="figures/seminarioGMA_2septiembreCPG.png" align="right" width="250px"/>](figures/seminarioGMA_22septiembreCPG.png)
+- Septiembre 22, 2022. **"El Problema de Clasificación de las2- Álgebras de Lie Simple."** Por Carlos Payares Guevara (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
+
+_El problema de clasificación de las álgebras de Lie simple de dimension finita sobre un cuerpo algebraicamente  cerrado  de  característica  primap>3  (en  particular  las p-álgebras  de  Lie  simple)  fue  totalmente resuelto en el 2008 por H. Strade,  A. Premet,  R. Wilson y R. Block.  Para p=2 o p=3,  hoy en día es un problema abierto.  En esta charla vamos a resumir los resultados encontrados hasta el momento sobre el problema de clasificación de las álgebras de Lie simple y de las 2-álgebras de Lie simple de dimensión finita sobre un cuerpo algebraicamente cerrado de característica p=2._
+<br clear="left"/>
+
  [<img src="figures/seminarioGMA_15septiembreADM.png" align="right" width="250px"/>](figures/seminarioGMA_15septiembreADM.png)
 - Septiembre 15, 2022. **"Aplicaciones de Ciencia de Datos en el Turismo"** Por Andy Dominguez (Universidad Tecnológica de Bolivar, Cartagena Colombia). 
 
